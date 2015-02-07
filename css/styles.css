@@ -3,6 +3,10 @@
 *{
     font-family: 'Lato', 'sans-serif';
 }
+.main{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
 p{
 	font-size: 18px;
 	font-weight: 300;
